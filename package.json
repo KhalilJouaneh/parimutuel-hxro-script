@@ -1,0 +1,19 @@
+{
+  "name": "parimutuel-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  },
+  "dependencies": {
+    "@hxronetwork/parimutuelsdk": "^1.0.23",
+    "@solana/web3.js": "^1.74.0"
+  }
+}
